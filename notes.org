@@ -6,3 +6,22 @@
 * Chapter 1 : Intro
 ** Foundations
 *** History & Motivation
+- orchestrators enable treating clusters of machines as a single resource
+- Include utilities:
+  - Efficient scheduling across instances
+  - Health checks
+  - Service discovery
+  - Configuration management
+  - Auto Scaling
+  - Persistent storage
+  - Networking
+- Borg (by Google) then open sourced and released as kubernetes
+-
+*** Techonology Overview
+- Cluster
+  -
+- Control Plane
+  - all the sy
+- Data Plane
+  - all the end user
+-
